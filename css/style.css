@@ -1,0 +1,18 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+}
+
+.hero {
+  height: 100vh;
+  background: linear-gradient(135deg, #f0f8ff, #e8f0ff);
+}
+
+h1 span {
+  color: #007bff;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
