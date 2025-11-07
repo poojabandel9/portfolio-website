@@ -49,16 +49,17 @@ portfolio-website/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/project1.png)
+![Home Page](images/home.png)
 
-### 📄 About Page
-Showcases my background and experience.
+### 👩‍💻 About Page
+![About Page](images/about.png)
 
-### 💻 Projects Page
-Lists my key academic and technical projects.
+### 💼 Projects Page
+![Projects Page](images/projects.png)
 
 ### 📬 Contact Page
-Simple form to send messages.
+![Contact Page](images/contact.png)
+
 
 ---
 
