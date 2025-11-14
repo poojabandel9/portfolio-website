@@ -95,4 +95,4 @@ It includes a navigation bar, about section, projects gallery, and contact form 
 
 **GitHub:** https://github.com/poojabandel9
 
-**Email:**  [poojabandel9@gmail.com](mailto:poojabandel9@gmail.com)
+**Email:**  (mailto:poojabandel9@gmail.com)
