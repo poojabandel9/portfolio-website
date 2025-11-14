@@ -91,7 +91,7 @@ It includes a navigation bar, about section, projects gallery, and contact form 
 
 ##  🤝 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/pooja-bandel
+LinkedIn: (https://www.linkedin.com/in/pooja-bandel-983060202/)
 
 GitHub: https://github.com/poojabandel9
 
