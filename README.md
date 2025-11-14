@@ -1,7 +1,5 @@
 # 💼 Personal Portfolio Website
 
-# 💼 Personal Portfolio Website
-
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3)
@@ -99,7 +97,7 @@ It includes a navigation bar, about section, projects gallery, and contact form 
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pooja%20Bandel-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-bandel)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pooja%20Bandel-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-bandel-983060202/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-poojabandel9-black?logo=github)](https://github.com/poojabandel9)  
 [![Email Badge](https://img.shields.io/badge/Email-poojabandel9%40gmail.com-red?logo=gmail&logoColor=white)](mailto:poojabandel9@gmail.com)
 
