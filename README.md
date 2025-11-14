@@ -95,4 +95,4 @@ LinkedIn: (https://www.linkedin.com/in/pooja-bandel-983060202/)
 
 GitHub: https://github.com/poojabandel9
 
-Email: mailto:poojabandel9@gmail.com
+Email: poojabandel9@gmail.com
