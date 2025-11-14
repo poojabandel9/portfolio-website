@@ -1,5 +1,13 @@
 # 💼 Personal Portfolio Website
 
+# 💼 Personal Portfolio Website
+
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS3-blue)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/Status-Live-brightgreen)
+
 A fully responsive **Portfolio Website** built using **HTML, CSS, Bootstrap 5, and JavaScript** to showcase my professional profile, skills, and projects.
 
 ---
