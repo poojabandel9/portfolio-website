@@ -97,10 +97,9 @@ It includes a navigation bar, about section, projects gallery, and contact form 
 
    Double-click it OR Right-click → Open With Browser
 
-##  🤝 Connect with Me
+## 🤝 Connect with Me  
 
-**LinkedIn:** (https://www.linkedin.com/in/pooja-bandel-983060202/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pooja%20Bandel-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-bandel)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-poojabandel9-black?logo=github)](https://github.com/poojabandel9)  
+[![Email Badge](https://img.shields.io/badge/Email-poojabandel9%40gmail.com-red?logo=gmail&logoColor=white)](mailto:poojabandel9@gmail.com)
 
-**GitHub:** https://github.com/poojabandel9
-
-**Email:**  (mailto:poojabandel9@gmail.com)
